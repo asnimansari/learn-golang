@@ -1,2 +1,2 @@
 # learn-golang
-Learning Go Lang by doing
+This a simple repo on which i learned go-lang basics
